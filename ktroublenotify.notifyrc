@@ -1,0 +1,9 @@
+[Global]
+IconName=help-hint
+Name=ktroublenotify
+Comment=kTroubleNotify
+
+
+[Event/NewTicketArrived]
+Name=New ticket arrived
+Action=Sound|Popup

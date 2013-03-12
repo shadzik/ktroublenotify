@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[en_US]=CMS K Trouble Notify
+Comment=CMS K Trouble Notify
+Exec=ktroublenotify
+GenericName[en_US]=CMS K Trouble Notify
+GenericName=CMS K Trouble Notify
+Icon=dialog-password
+MimeType=
+Name[en_US]=CMS K Trouble Notify
+Name=CMS K Trouble Notify
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=Qt;KDE;Network;
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
