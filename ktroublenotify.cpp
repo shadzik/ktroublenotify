@@ -1,5 +1,5 @@
 /* CMS Trouble Notify for KDE4
- * author: Bartosz Świątek (swiateba@cms.hu-berlin.de)
+ * author: Bartosz Świątek (shadzik@gmail.com)
  * license: GPLv2+
  * (c) 2010
  *
